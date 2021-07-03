@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, i'm Minthing 💻
+
+- working as a front end developer ✨
 
 <!--
 **minthing/minthing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
