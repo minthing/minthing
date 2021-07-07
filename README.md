@@ -1,6 +1,7 @@
 ### Hello, i'm Minthing 💻
 
 - working as a front end developer ✨
+- [frontend mentor](https://www.frontendmentor.io/profile/minthing) | [codepen](https://codepen.io/minthing)
 
 <!--
 **minthing/minthing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
